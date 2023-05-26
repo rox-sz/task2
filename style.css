@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+hr {
+    width: 35%;
+}
+
+ol {
+    text-align: center;
+}
+
+button {
+    height: 40px;
+    width: 120px;
+    background-color: blue;
+    color: white;
+    border-radius: 50px;
+    border-style: none;
+    cursor: pointer;
+}
